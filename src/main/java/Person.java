@@ -26,7 +26,7 @@ public class Person {
         }
 
         public String getPersonInfo() {
-            return "Name: " + firstName + ", Lastname: " + lastName; + "ID: " id;
+            return "Name: " + firstName + ", Lastname: " + lastName + ", ID: " + id;
         }
 
     // getNext ID ?
